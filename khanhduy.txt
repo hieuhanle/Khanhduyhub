@@ -1,9 +1,9 @@
 --[[
 
 From: Noguchi Hyuga
-- Website: iamkhnah.github.io/noguchihyuga/index.html 
-- Facebook Founder: fb.com/p.khnah.itonltz
-- Discord Server: https://discord.gg/836PgY82J4
+- Website:  
+- Facebook Founder: 
+- Discord Server: 
 
 --// Lưu Ý:
 - Không Được Share Hay Crack Mã Nguồn Này Cho Ai!
@@ -10285,8 +10285,9 @@ local v101 = require(game.ReplicatedStorage.Util.CameraShaker);
 v101:Stop();
 local v102 = game:GetService("Players");
 game:GetService("StarterGui"):SetCore("SendNotification", {
-	Title = "Min Gaming",
+	Title = "khanh duy",
 	Text = "Loading Done!",
 	Icon = "rbxthumb://type=Asset&id=13717478897&w=150&h=150",
 	Duration = 10
+
 });
